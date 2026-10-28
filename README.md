@@ -43,4 +43,4 @@ Engenheiro de Software e Analista de Sistemas com sólida experiência no ciclo 
 
 ### 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-silva-99a770107/)
